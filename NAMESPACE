@@ -1,0 +1,6 @@
+export(LexisNexisSource, readLexisNexisHTML)
+S3method(getElem, LexisNexisSource)
+importFrom(utils, data)
+import(ISOcodes)
+importFrom(tm, getElem, FunctionGenerator, meta, "meta<-", PlainTextDocument, Source)
+importFrom(XML, free, getNodeSet, htmlParse, saveXML, xmlValue)
