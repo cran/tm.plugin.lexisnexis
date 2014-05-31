@@ -1,10 +1,10 @@
-a4df385596be26993dd01695dd0bf2ab *DESCRIPTION
-43c60294f482a671b61b9ea3c27d5847 *NAMESPACE
-25596b6923d38a4b4c676368d36c453c *NEWS
-d6036771d57b04c6d433e70ca34cfb05 *R/LexisNexisSource.R
-70baba76530dbdd70aa159d982098c89 *R/readLexisNexisHTML.R
+aac056fe4c8ff9eff65ab733fc854849 *DESCRIPTION
+c800746ff71d667cfc9b4bbc017fb754 *NAMESPACE
+fa0431a3c534a11b7188cde3e2ff5188 *NEWS
+a22057c7c6874e7186d2e3518ac22bd6 *R/LexisNexisSource.R
+44b4fa297c378d4ce811fd0acfa4a32e *R/readLexisNexisHTML.R
 4a640ab201bcae9785de885bb253b033 *R/startup.R
 2d58dc1500d1f8d7b5f23d01c57a988d *inst/texts/lexisnexis_test.html
-d0400e289de89e08c1e7516ff8888817 *man/LexisNexisSource.Rd
+57d60124a6abca85965374b88eeeaf45 *man/LexisNexisSource.Rd
 e5027c8e40d69a9152a44c03a7b70895 *man/readLexisNexis.Rd
 1350f9776484a2375e573395a6d9f787 *man/tm.plugin.lexisnexis-package.Rd
