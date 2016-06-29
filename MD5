@@ -1,8 +1,8 @@
-6151f286278ee0b3cf9bade0aa9b33c3 *DESCRIPTION
-c800746ff71d667cfc9b4bbc017fb754 *NAMESPACE
-206612c3627773c8a385ec072cf6f04f *NEWS
-a22057c7c6874e7186d2e3518ac22bd6 *R/LexisNexisSource.R
-6ef9e9ea21ddc6968bfa9b45c319fbee *R/readLexisNexisHTML.R
+9fa72ab62d2121b9f5baab033798a962 *DESCRIPTION
+5b2d71c759375c93c62a19c386d07fa4 *NAMESPACE
+97ef7d9c37df358852beb9cd6cb6452a *NEWS
+f4093043f2d56df32c4f8e57014a0a95 *R/LexisNexisSource.R
+25902e865c4fef71795e3b1f2a429ecc *R/readLexisNexisHTML.R
 4a640ab201bcae9785de885bb253b033 *R/startup.R
 a504111e17285b591b1c50914aa7fa64 *inst/texts/lexisnexis_test_en.html
 2d58dc1500d1f8d7b5f23d01c57a988d *inst/texts/lexisnexis_test_fr.html
